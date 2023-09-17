@@ -1,10 +1,5 @@
 # OS232
 
-☆ [LOG](TXT/mylog.txt) ☆ [GitHub](https://github.com/syazantri/os232/) ☆ [LINKS](LINKS/) ☆
+|| [TARBALL]() || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/cbkadal/os232/) ||
 
-## SYAZANTRI's TARBALL:
-
-```
--
-
-```
+#### REV03: Sun 17 Sep 2023 14:04
