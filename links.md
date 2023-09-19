@@ -41,7 +41,10 @@ permalink: LINKS/
    <br> I think the speaker's explanation is good and suitable for you who likes to watch bahasa video.
 3. [Learning the Linux File System](https://youtu.be/HIXzJ3Rz9po?si=HWlgEOObV3ESfBII)🎬
    <br> Recommended! This video is really structured and well explained. Watch this if you have 30 minutes.
-   
+
+## 4️⃣ <samp> WEEK 04 <samp> - Addressing, Shared Lib, & Pointer
+<samp> coming soon... <samp>
+
 <br><br>
 
 <h4 align="center"><samp> You are so cool, here is a bunch of apples as a reward for finishing reading this page.. 
