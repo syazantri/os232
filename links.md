@@ -35,9 +35,15 @@ permalink: LINKS/
    <br> This video will explain how to use chmod.
 
 ## 3️⃣ <samp> WEEK 03 <samp> - File System & FUSE
-<samp> coming soon.. <samp>
+1. [Linux File System Article](https://www.javatpoint.com/linux-file-system)📄
+   <br> If you don't have time to watch youtube video but you want to know popular linux directory and understand them (like /mnt, /boot), you should check it out!
+2. [Penjelasan Linux File System](https://youtu.be/EwRW1Ga9jHQ?si=mXIZmSguCIVlrCK9)🎬
+   <br> I think the speaker's explanation is good and suitable for you who likes to watch bahasa video.
+3. [Learning the Linux File System](https://youtu.be/HIXzJ3Rz9po?si=HWlgEOObV3ESfBII)🎬
+   <br> Recommended! This video is really structured and well explained. Watch this if you have 30 minutes.
+   
 <br><br>
 
 <h4 align="center"><samp> You are so cool, here is a bunch of apples as a reward for finishing reading this page.. 
-  <br> 🫴🏼🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎
+  <br> 👉🏻🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎
   <br> Have a nice day🦖💕 </samp></h4>
