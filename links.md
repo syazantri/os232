@@ -43,6 +43,14 @@ permalink: LINKS/
    <br> Recommended! This video is really structured and well explained. Watch this if you have 30 minute.
 
 ## 4️⃣ <samp> WEEK 04 <samp> - Addressing, Shared Lib, & Pointer
+1. [scp Command Tutorial](https://www.linode.com/docs/guides/how-to-use-scp/)📄
+   <br> This article will help you learn scp (secure copy) command that can be used to transfer file from a Local System to a Remote, from a remote to local, and from remote to remote.
+2. [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=yLW9My6SMbve4NkP)🎬
+   <br> This video will show you what a pointer is, as it applies to low level memory access, and how pointer syntax is in C in just 8 minutes video.
+5. [Big Endian and Little Endian](https://youtu.be/T1C9Kj_78ek?si=IMFLkQcReunNf678)🎬
+   <br> Short explanation video about little endian and big endian that you need for learning material this week.
+
+## 5️⃣ <samp> WEEK 05 <samp> - Virtual Memory
 <samp> coming soon... <samp>
 
 <br><br>
