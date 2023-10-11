@@ -58,6 +58,8 @@ permalink: LINKS/
 3. [Virtual Memory Quiz](https://quizlet.com/136829901/chapter-8-review-questions-virtual-memory-flash-cards/)📄
    <br> I think questions from this website will help you ace the weekly quiz, good luck!
 
+## 5️⃣ <samp> WEEK 06 <samp> - Concurrency: Processes & Threads
+<samp> coming soon...
 <br><br>
 
 <h4 align="center"><samp> You are so cool, here is a bunch of apples as a reward for finishing reading this page.. 
