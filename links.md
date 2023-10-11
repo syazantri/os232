@@ -19,9 +19,9 @@ permalink: LINKS/
    <br> If you want to excel in OS weekly quizzes, read this book in the section where the material of the week is (for example if you are in week 2, then you should read security section). Read at least 30 mins before the quiz.
 2. [Operating Systems Website by CBKadal](https://os.vlsm.org/#idx03)📄🦎
    <br> Who doesn't know cbkadal? Absolutely this website will guide you in learning OS this semester. There are so many resources like links or midterm problems from previous semester. Just follow the guide correctly for the assignments, explore more for your knowledge and for your success in weekly quizzes.
-4. [Operating Systems by Neso Academy](https://youtu.be/vBURTt97EkA?si=wqKgvQBHupDdGsMp)🎬
+3. [Operating Systems by Neso Academy](https://youtu.be/vBURTt97EkA?si=wqKgvQBHupDdGsMp)🎬
    <br> Youtube playlist by my favorite education channel youtuber that will teach you operating systems from A to Z.
-5. [Linux Commands Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)📄
+4. [Linux Commands Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)📄
    <br> This cheat sheet will help you understand linux command quickly and without beating around the bush.
 
 ## 2️⃣ <samp> WEEK 02 <samp> - Security, Protection, Privacy, & C-language
@@ -29,7 +29,7 @@ permalink: LINKS/
    <br> New to cyber security? I think it's important for you to understand what is encryption and public key because you will meet them many times.
 3. [Security Attacks](https://youtu.be/yIm0Ol9Dg4Y?si=vLYUIqqNRb-7Godv)🎬
    <br> This video will let you know more about types and example of security attacks.
-3. [Setfacl, Getfacl](https://youtu.be/0KbP-yHSvVI?si=5piTPwLXbFnd3IYR)🎬
+4. [Setfacl, Getfacl](https://youtu.be/0KbP-yHSvVI?si=5piTPwLXbFnd3IYR)🎬
    <br> setfacl? getfacl? what is that??😥 Understand ACL with this video.
 5. [chmod Tutorial](https://youtu.be/MFQpdELKTLc?si=2rQJoeLN3QBCqhCE)🎬
    <br> This video will explain how to use chmod.
@@ -47,11 +47,16 @@ permalink: LINKS/
    <br> This article will help you learn scp (secure copy) command that can be used to transfer file from a Local System to a Remote, from a remote to local, and from remote to remote.
 2. [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=yLW9My6SMbve4NkP)🎬
    <br> This video will show you what a pointer is, as it applies to low level memory access, and how pointer syntax is in C in just 8 minutes video.
-5. [Big Endian and Little Endian](https://youtu.be/T1C9Kj_78ek?si=IMFLkQcReunNf678)🎬
+3. [Big Endian and Little Endian](https://youtu.be/T1C9Kj_78ek?si=IMFLkQcReunNf678)🎬
    <br> Short explanation video about little endian and big endian that you need for learning material this week.
 
 ## 5️⃣ <samp> WEEK 05 <samp> - Virtual Memory
-<samp> coming soon... <samp>
+1. [Swap Explanation](https://youtu.be/Qt49Hzh_TDc?si=HRFprqLFt_R_KS_a)🎬
+   <br> This video will teach you how the mechanism of swap from main memory to secondary memory and from secondary too main memory in a short and clear explanation.
+2. [Page Table Explanation](https://youtu.be/KNUJhZCQZ9c?si=k4uhTDrC3cxj1MQQ)🎬
+   <br> This video will explain how to do translation with page tables, make the translation table size manageable with pages, and explain about page table entries and page offset address.
+3. [Virtual Memory Quiz](https://quizlet.com/136829901/chapter-8-review-questions-virtual-memory-flash-cards/)📄
+   <br> I think questions from this website will help you ace the weekly quiz, good luck!
 
 <br><br>
 
