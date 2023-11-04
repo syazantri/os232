@@ -58,7 +58,15 @@ permalink: LINKS/
 3. [Virtual Memory Quiz](https://quizlet.com/136829901/chapter-8-review-questions-virtual-memory-flash-cards/)📄
    <br> I think questions from this website will help you ace the weekly quiz, good luck!
 
-## 5️⃣ <samp> WEEK 06 <samp> - Concurrency: Processes & Threads
+## 6️⃣ <samp> WEEK 06 <samp> - Concurrency: Processes & Threads
+1. [Process vs Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)📄  
+   <br> This article will help you understand the differences between process and thread.
+2. [Concurrency vs Parallelism](https://youtu.be/Y1pgpn2gOSg?si=vvTjLXb6tF09JTZn)🎬
+   <br> This video will give you explanation about the differences between concurrency and parallelism, and I think it will help you answer the week 6 quiz easier.
+3. [Unix Threads in C](https://youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&si=G8896E026XWIwbWq)🎬
+   <br> This is a youtube video playlist about how to use threads under linux in C.
+
+## 7️⃣ <samp> WEEK 07 <samp> - Synchronization & Deadlock
 <samp> coming soon...
 <br><br>
 
