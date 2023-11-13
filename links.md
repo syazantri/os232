@@ -67,6 +67,14 @@ permalink: LINKS/
    <br> This is a youtube video playlist about how to use threads under linux in C.
 
 ## 7️⃣ <samp> WEEK 07 <samp> - Synchronization & Deadlock
+1. [Semaphore in OS](https://www.scaler.com/topics/operating-system/semaphore-in-os/)📄  
+   <br> This article will help you understand semaphore in OS.
+2. [Semaphore Quiz](https://quizlet.com/273343930/exam-1-tf-flash-cards/)📄
+   <br> There are many true/false problems on this website that will help you get familiar with the Week 7 quiz
+3. [Semaphores Video](https://youtu.be/XDIOC2EY5JE?si=suLZA3U0VAHy_IVF)🎬
+   <br> This video will explain about semaphore, including wait() and signal() operations, binary semaphore, and counting semaphore.
+   
+## 8️⃣ <samp> WEEK 08 <samp> - Scheduling + W06/W07
 <samp> coming soon...
 <br><br>
 
