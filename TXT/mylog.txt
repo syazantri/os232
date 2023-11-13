@@ -2,7 +2,13 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W06 30  L09 Weekly Assiignments
+ZCZC W07 55  L05 Quiz related including studying
+ZCZC W07 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 80  L82 Reading Book (online)
+ZCZC W07 120 L09 Weekly Assignments
+ZCZC W07 5   L01 SCELE/Discord related
+ZCZC W06 30  L09 Weekly Assignments
 ZCZC W06 55  L05 Quiz related including sudying
 ZCZC W06 5   L01 SCELE/Discord related
 ZCZC W06 120 L02 CLASSROOM/ZOOM meetings related
