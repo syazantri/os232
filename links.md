@@ -75,8 +75,12 @@ permalink: LINKS/
    <br> This video will explain about semaphore, including wait() and signal() operations, binary semaphore, and counting semaphore.
    
 ## 8️⃣ <samp> WEEK 08 <samp> - Scheduling + W06/W07
-<samp> coming soon...
-<br><br>
+1. [LFS VID TUTORIAL](https://youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&si=jUaN8T4NdCubxgai)🎬
+   <br> yes this will help you build linux from scratch. it's so recommended for you to watch these vid when you want to do assignment week 8
+2. [lfs build book](https://www.linuxfromscratch.org/lfs/view/12.0/index.html)📄
+   <br> absolutely, this is the main source for assignment week 8
+3. [swap tutorial](https://osp4diss.vlsm.org/osp-125.html)📄
+   <br> you probably need this if your storage is full.
 
 <h4 align="center"><samp> You are so cool, here is a bunch of apples as a reward for finishing reading this page.. 
   <br> 👉🏻🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎🍏🍎
